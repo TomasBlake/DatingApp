@@ -1,0 +1,19 @@
+.right-container {
+    border: solid 1px rgb(219, 219, 219);
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    margin: 0 15px 0 15px;
+    flex: 3;
+}
+
+.profiledetailright-header {
+    width: 100%;
+    height: auto;
+    display: flex;
+    border-bottom: solid 1px rgb(219, 219, 219);
+}
+
+.profiledetailright-main {
+    
+}

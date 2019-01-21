@@ -1,0 +1,22 @@
+.main-navigation {
+    display: flex;
+    flex: 1;
+}
+
+.left-nav-ul {
+    display: flex;
+    flex:1;
+    justify-content: space-between;
+    min-width: 200px;
+    max-width: 200px;
+}
+
+.right-nav-ul {
+    display: flex;
+    flex:3;
+    justify-content: flex-end;
+}
+
+.space-between-nav {
+    flex:1;
+}

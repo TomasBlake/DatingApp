@@ -1,0 +1,6 @@
+textarea {
+    border: solid 1px rgb(224, 224, 224);
+    border-radius: 5px;
+    width: 100%;
+    min-height: 60px;
+}

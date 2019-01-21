@@ -1,0 +1,36 @@
+.profiledetail-img-container {
+    border: solid 1px rgb(219, 219, 219);;
+    border-radius: 5px;
+    height: 270px;
+    width: 270px;
+    margin: 30px;
+    padding: 5px;
+}
+
+.profiledetail-text-container {
+    margin: 30px;
+}
+
+.profiledetail-text-container p {
+    text-align: left;
+}
+
+.profiledetail-img {
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+}
+
+.left-container {
+    border: solid 1px rgb(219, 219, 219);
+    border-radius: 5px;
+    height: auto;
+    width: auto;
+    margin: 0 15px 0 15px;
+}
+
+.profile-button-container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}

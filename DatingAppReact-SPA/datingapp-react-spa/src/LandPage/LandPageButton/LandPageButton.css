@@ -1,0 +1,29 @@
+.register-button {
+    width: 120px;
+    height: 40px;
+    padding-top: 15px;
+    background-color: rgb(206, 31, 31);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+.register-button:hover {
+    background-color: rgb(167, 26, 26);
+}
+
+.learnmore-button {
+    width: 140px;
+    height: 40px;
+    padding-top: 15px;
+    background-color: rgb(31, 113, 206);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+.learnmore-button:hover {
+    background-color: rgb(24, 85, 155);
+}

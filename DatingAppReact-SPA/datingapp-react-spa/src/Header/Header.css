@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    position: fixed;
+    background-color: rgb(235, 48, 48);
+    height: 65px;
+    width: 100%;
+}
+
+.header-container {
+    display: flex;
+    flex-basis: 70%;
+    margin: auto;
+    height: 100%;
+}

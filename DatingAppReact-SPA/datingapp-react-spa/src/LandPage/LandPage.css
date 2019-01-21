@@ -1,0 +1,14 @@
+.mainpage {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 0 auto;
+}
+
+.button-container {
+    margin: 25px auto 0 auto;
+    height: auto;
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,12 @@
+@import "../../../../node_modules/react-image-gallery/styles/css/image-gallery.css";
+
+.original-class {
+    max-width: 450px;
+    max-height: auto;
+    margin: 0 auto 0 auto;
+}
+
+.gallery {
+    max-width: 450px;
+    margin: 0 auto 0 auto;
+}

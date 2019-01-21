@@ -1,0 +1,21 @@
+.profilepartbutton {
+    padding: 15px;
+    color: rgb(245, 118, 0);
+    text-decoration: none;
+    box-sizing: border-box;
+    height: 50px;
+}
+
+.profilepartbutton:hover {
+    color: black;
+    border-bottom: solid 3px rgba(245, 118, 0, 0.5);
+}
+
+.profilepartbutton:first-of-type {
+    margin-left: 15px;
+}
+
+.active-profilepartbutton {
+    color: black;
+    border-bottom: solid 3px rgb(216, 104, 0);
+}

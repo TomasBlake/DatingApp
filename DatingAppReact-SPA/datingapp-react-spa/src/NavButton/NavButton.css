@@ -1,0 +1,17 @@
+.nav-link {
+    color: rgb(224, 224, 224);
+    text-decoration: none;
+    margin: auto 0 auto 0;
+}
+
+.nav-link:hover {
+    color: rgb(241, 241, 241);
+}
+
+.nav-link-active {
+    color: white;
+}
+
+.black-version {
+    color: rgb(65, 65, 65);
+}
